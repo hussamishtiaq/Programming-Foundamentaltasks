@@ -1,0 +1,3 @@
+Manager Name:	Muhammed Hamza
+Rooms:	50
+admin_office:	10
